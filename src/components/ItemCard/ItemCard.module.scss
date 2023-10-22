@@ -1,0 +1,10 @@
+.card {
+    &Container {
+        width: 350px;
+    }
+
+    &Footer {
+        display: flex;
+        justify-content: flex-end;
+    }
+}

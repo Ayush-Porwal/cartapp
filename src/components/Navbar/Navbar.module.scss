@@ -1,0 +1,11 @@
+.navbar {
+    &End {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        &Icon {
+            cursor: pointer;
+            font-size: 24px;
+        }
+    }
+}

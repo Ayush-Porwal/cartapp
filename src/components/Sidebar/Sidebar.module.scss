@@ -1,8 +1,8 @@
 .sidebar {
     &Container {
-        margin: 16px 0 0 16px;
         width: 200px;
-        height: calc(100vh - 76px);
+        min-width: 200px;
+        margin: 16px 0 0 16px;
     }
     &Menu {
         width: 100%;

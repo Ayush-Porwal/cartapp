@@ -6,5 +6,9 @@
     &Footer {
         display: flex;
         justify-content: flex-end;
+        &Container {
+            display: flex;
+            align-items: center;
+        }
     }
 }
